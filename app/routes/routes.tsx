@@ -1,0 +1,5 @@
+export const FAVORITES = '/favorites'
+export const PLAYLISTS = '/playlists'
+export const SEARCH = '/search'
+export const ARTISTS = '/artists'
+export const SONGS = '/songs'
